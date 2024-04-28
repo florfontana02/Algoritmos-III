@@ -5,7 +5,7 @@ Proyectos en C++ de la materia Algoritmos y Estructuras de Datos III.  FCEN UBA 
 Resolución de ejercicios con técnicas como Dynamic Programming y Greedy Algorithms.
 
 ## Trabajo Práctico 2 - Recorridos y Árboles
-Resolución de ejercicios sobre recorridos en grafos y en árboles.
+Resolución de ejercicios sobre recorridos en grafos y en árboles. Implementación de DFS, BFS, Kruskal.
 
 ## Trabajo Práctico 3 - Camino Mínimo y Flujo Máximo
 Resolución de ejercicios con problemas de camino mínimo y flujo máximo. Implementación de Dijkstra.

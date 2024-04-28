@@ -7,5 +7,5 @@ Resolución de ejercicios con técnicas como Dynamic Programming y Greedy Algori
 ## Trabajo Práctico 2 - Recorridos y Árboles
 Resolución de ejercicios sobre recorridos en grafos y en árboles.
 
-## Trabajo Práctico 3 
+## Trabajo Práctico 3 - Camino Mínimo y Flujo Máximo
 Resolución de ejercicios con problemas de camino mínimo y flujo máximo. Implementación de Dijkstra.
